@@ -1,0 +1,6 @@
+{
+  "base_url": "https://support.neofinancial.com",
+  "locales": ["en-ca"],
+  "max_pages": 1,
+  "output_file": "output.json"
+}
